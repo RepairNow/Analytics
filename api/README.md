@@ -1,0 +1,5 @@
+- Security
+- /events Post
+- /tags Get Post Delete
+- /tunnels Get Post Delete
+- /stats Get Post
